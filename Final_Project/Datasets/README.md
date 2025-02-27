@@ -1,6 +1,6 @@
 ## Datasets - BDS I Final Project
 
-The dataset I used can directly be found [here]([https://osf.io/w9v28/files/osfstorage](https://osf.io/w9v28/)) and within this repository.
+The dataset I used can directly be found [here]([https://osf.io/w9v28/files/osfstorage](https://osf.io/w9v28/) and within this repository.
 
 This data was collected independently by a 33-year old male doctoral student. Each row represents one day of data collection over the course of 900 days.
 
