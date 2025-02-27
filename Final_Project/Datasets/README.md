@@ -6,6 +6,7 @@ This data was collected independently by a 33-year old male doctoral student. Ea
 
 
 Reference:
+
 Heino, M. T. (2022). Cognitive
 Dynamics of a single subject: 1428 Stroop tests and other measures in a mindfulness meditation context over
 2.5 years. Journal of Open Psychology Data, 10. https://doi.org/10.5334/jopd.51
