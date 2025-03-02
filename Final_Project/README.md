@@ -1,6 +1,6 @@
 ## Final Project - PSY 598 - BDS I
 
-This was the Final Project I created for my PSY 598: Behavioral Data Science I course. Within this folder, you can find the original Project Poposal (a brief description of the project with some preliminary data analyses), 
+This was the Final Project I created for my PSY 598: Behavioral Data Science I course. Within this folder, you can find the original Project Poposal (a brief description of the project with some preliminary data analyses), the datasets used, and the rendered PDF of the final project.
 
 The goal of this project was to select an open-sourced datascience and explore and visualize three research questions. 
 
