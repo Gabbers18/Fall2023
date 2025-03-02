@@ -9,34 +9,24 @@ Rather than learning words randomly or primarily through formal education, child
 - Visualize trends across time
 - Visualizing relationships between variables
 - Discovering Simpson’s paradox via visualizations
-
+ 
 
 ### **Exercises**  
 
-1. **Get to Know Your Data**  
-   - Find the three most commonly produced words by 18-month-olds.  
-   - Identify the least likely sound to be produced at 30 months.  
+1. Identify the three most commonly produced words by 18-month-olds. Among the "sounds" category, which sound is least likely to be produced at 30 months?  
 
-2. **Plot Word Learning Over Time (Sounds Category)**  
-   - Plot the proportion of children producing words in the "sounds" category from 16 to 30 months.  
-   - Identify the word children tend to know best.  
-   - Determine which word is learned the fastest from 16 to 25 months and speculate why.  
+2. Plot the learning trajectory of words in the "sounds" category from 16 to 30 months. Use proportion of children producing the word on the y-axis and age on the x-axis. Which word do children know best? Which is learned the fastest from 16 to 25 months, and why might that be?  
 
-3. **Plot Word Learning by Category**  
-   - Create a plot showing word learning trajectories for different categories (e.g., sounds, body parts, pronouns, etc.).  
-   - Use facets or linetypes to differentiate categories.  
+3. Plot the learning trajectories for different word categories: "sounds," "games_routines," "body_parts," "animals," "clothing," "people," "pronouns," "connecting_words," "quantifiers," and "helping_verbs." Use proportion of children producing the word on the y-axis and age on the x-axis. Consider using faceting or linetypes for clarity.  
 
-4. **Word Frequency & Learning**  
-   - List the 10 most and least frequent words in the dataset.  
-   - Plot the relationship between word frequency and the proportion of children producing the word at 24 months, using log-transformed frequency.  
-   - Add a linear fit and describe the relationship (positive, negative, or non-existent).  
+4. List the 10 most and least frequent words in the dataset.  
 
-5. **Faceted Plot by Category**  
-   - Recreate the previous plot but facet by word category.  
-   - Compare the relationships observed in this plot vs. the previous one.  
+5. Create a plot showing the relationship between word frequency and the proportion of children producing the word at 24 months. Use log-transformed frequency on the x-axis.  
 
-6. **Qualitative Analysis**  
-   - Consider why some word categories are harder for children to learn despite being common.  
-   - Reflect on how words used in books differ from words heard by toddlers.  
-   - Identify low-frequency word categories that children might hear often despite low representation in books.  
-   - Find the most frequent words in categories that are hard for children to learn (e.g., quantifiers, connecting words) and consider how often children hear them.  
+6. Add a linear trend line to the plot using `geom_smooth(method="lm")`.  
+
+7. Describe the relationship: Is it positive, negative, or non-existent? Is this surprising? What could explain it?  
+
+8. Identify low-frequency word categories that children might hear often despite their low presence in written texts.  
+
+9. Find the most frequent words in categories that are difficult for children to learn (e.g., quantifiers, connecting words). How often do children hear these words in everyday speech?
