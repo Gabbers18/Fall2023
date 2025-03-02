@@ -1,5 +1,10 @@
 ## Visualizing Children's Word Learning
 
+### Overview
+Young children are exceptional learners, especially when it comes to language. By the age of 12 months, they begin producing simple words, and their phonological processing becomes mature around 18 months. From then until the age of five, children acquire an average of 6-7 words per day.
+
+Rather than learning words randomly or primarily through formal education, children acquire vocabulary based on daily interactions and experiences. This lab explores the factors influencing which words children learn and when, using real-world data from the Wordbank database.
+
 ### Objectives: 
 - Visualize trends across time
 - Visualizing relationships between variables
