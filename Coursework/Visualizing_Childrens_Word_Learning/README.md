@@ -11,7 +11,7 @@ Rather than learning words randomly or primarily through formal education, child
 - Discovering Simpson’s paradox via visualizations
  
 
-### **Exercises**  
+### Assignment Exercises
 
 1. Identify the three most commonly produced words by 18-month-olds. Among the "sounds" category, which sound is least likely to be produced at 30 months?  
 
